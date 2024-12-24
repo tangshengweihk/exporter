@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "id": "1734935132543",
+      "ip": "172.16.8.111",
+      "url": "/api/metrics",
+      "name": "KidPC"
+    },
+    {
+      "id": "1735019780068",
+      "ip": "localhost",
+      "url": "/api/metrics",
+      "name": "Kid"
+    }
+  ]
+}
